@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class first1 {
+public class AddingNodesBeginningLL {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n= sc.nextInt();

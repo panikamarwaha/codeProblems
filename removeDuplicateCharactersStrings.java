@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class fourth4 {
+public class removeDuplicateCharactersStrings {
     public static void main(String[] args) {
         Scanner sc =new Scanner (System.in);
         String s =sc.next();

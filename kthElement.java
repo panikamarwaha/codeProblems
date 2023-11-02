@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 import java.util.Scanner;
-public class Seventh7 {
+public class kthElement {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         LinkedList<Integer>ll=new LinkedList<>();

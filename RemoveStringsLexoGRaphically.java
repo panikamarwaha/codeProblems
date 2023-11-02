@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.Scanner;
 
-public class second2 {
+public class RemoveStringsLexoGRaphically {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int n= sc.nextInt();
